@@ -1,0 +1,204 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+.container
+{
+	
+	width:100%;
+}
+.wrapper
+{
+	
+	width:900px;
+	margin:auto;
+}
+.dark
+{
+	background-color:red;
+}
+.light
+{
+	background-color:blue;
+	color:white;
+}
+#mail
+{
+	display:inline-block;
+	
+}
+#mobile
+{
+	float:right;
+}
+#top
+{
+	height:40px;
+	line-height:40px;
+}
+#mail a
+{
+	text-decoration:none;
+	display:block;
+}
+#mail a:hover
+{
+	background-color:orange;
+	color:white;
+}
+#logo
+{
+	
+	display:inline-block;
+	
+}
+#search
+{
+	float:right;
+	
+	margin-top:150px;
+}
+img
+{
+	width:500px;
+}
+#textstyle
+{
+	height:30px;
+	border-radius:8px;
+}
+#button
+{
+	background-color:green;
+	color:white;
+	padding:7px;
+	border-radius:8px;
+	width:70px;
+	border:1px solid green;
+}
+#clear
+{
+	clear:both;
+}
+ul
+{
+	list-style:none;
+	background-color:green;
+	
+}
+ul li
+{
+	border:1px solid white;
+	width:170px;
+	height:40px;
+	line-height:40px;
+	display:inline-block;
+
+	text-align:center;
+	
+}
+ul li a
+{
+	color:red;
+	text-decoration:none;
+	display:block;
+}
+ul li a:hover
+{
+	background-color:orange;
+	color:white;
+}
+#slider_image img
+{
+	width:868px;
+	border:1px solid white;
+	padding:15px;
+	background-color:#eee;
+	box-shadow: 5px 5px 10px grey;
+	margin-top:10px;
+}
+h3
+{
+	text-align:center;
+	text-transform:uppercase;
+}
+p
+{
+	text-align:justify;
+}
+#image
+{
+	width:150px;
+	
+	margin:auto;
+	cursor:pointer;
+
+}
+#text
+{
+	
+	width:290px;
+	margin:3px;
+	display:inline-block;
+	margin-top:20px;
+}
+#who
+{
+	font-size:60px;
+	text-align:center;
+	color:green;
+	font-family:tahoma;
+}
+.audio
+{
+	
+	text-align:center;
+}
+#video
+{
+	width:520px;
+	height:280px;
+}
+#bold
+{
+	text-align:center;
+}
+body
+{
+	font-family:macondo;
+}
+#not
+{
+	
+	width:230px;
+	margin:5px;
+	display:inline-table;
+}
+#ggg
+{
+	background-color:red;
+	color:gray;
+	text-align:center;
+	height:50px;
+	line-height:50px;
+	
+}
+#hhh
+{
+	background-color:green;
+	color:gray;
+	text-align:center;
+	height:50px;
+	line-height:50px;
+}
+h2
+{
+	font-size:50px;
+}
+button
+{
+	font-size:15px;
+	background-color:black;
+	color:gray;
+}
